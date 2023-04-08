@@ -1,9 +1,6 @@
 tekst 1
 tekst 2
 tekst 3
-<<<<<<< HEAD
 tekst 4
 tekst 5
-=======
 tekst 8
->>>>>>> 80dcd27 (test)
